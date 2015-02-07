@@ -184,6 +184,8 @@ int main( void )
         apcvzbSentence1();
         dpvx8First();
         apcvzbSentence2();
+	wldzc_sentence1();
+	wldzc_sentence2();
     
     ska6f8_Sentence1();
     ska6f8_Sentence2();
